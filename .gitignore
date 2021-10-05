@@ -9,7 +9,6 @@
 Homestead.json
 Homestead.yaml
 npm-debug.log
-.env
 
 # Ignore ide helper files
 _ide_helper.php
@@ -29,3 +28,4 @@ _ide_helper.php
 #System Files
 .DS_Store
 Thumbs.db
+config.bat
